@@ -22,11 +22,16 @@ http://es6-features.org/#Lexicalthis - nowości w ES6
 5. Po zainstalowaniu uruchom server i zobacz co się dzieje w plikach
     > gulp serve
 6. Obejrzyj plik gulpfile.js
-7. Korzystając z nowości dodanych w ES6 stwórz na stronie kalkulator dodający do siebie 2 liczby:
-    * Stwórz w HTML 2 inputy, button oraz paragraf i nadaj im ID
-    * W JS stwórz klasę Kalkulator
-    * Dodaj do klasy funkcje do sumowania
-    * Dodaj do klasy funkcję do wypisywania na ekranie wyniku
-    * Podepnij funkcję do sumowania na kliknięcie przycisku
-8. Korzystając z nowości dodanych w ES6 stwórz na stronie formularz z 3 polami - Imię, Nazwisko, Wiek.
-Po zaakceptowaniu formularza zawartość strony powinna się zmienić na dowolny tekst w którym uzyjecie danych z formularza.
+    * Zmienne
+    * Zadania
+    * Zadanie domyślne
+7. Sprawdz działanie serwera
+    * Zmień coś w pliku src/index.html
+    * Zmień coś w pliku src/js/main.js
+    * Zmień coś w pliku src/scss/main.scss
+8. Zadania:
+    * Dodaj nowy plik index2.html i zmień zadania tak, aby to nowy plik index2.html był kopiowany
+    * W podobny sposób dodaj i zmień w ustawieniach pliki main2.js i main2.scc
+    * Stwórz nowy folder o nazwie "zrodla" i stwórz tam odpowiadająca tobie strukture plików
+    * Stwórz dowolne dwa skrypty działające na plikach z nowego folderu.
+    * Ściągnij i użyj gulp-minify - bibliotekę do minifikacji plików Javascript (https://www.npmjs.com/package/gulp-minify)
