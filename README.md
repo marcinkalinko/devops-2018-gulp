@@ -30,8 +30,9 @@ http://es6-features.org/#Lexicalthis - nowości w ES6
     * Zmień coś w pliku src/js/main.js
     * Zmień coś w pliku src/scss/main.scss
 8. Zadania:
-    * Dodaj nowy plik index2.html i zmień zadania tak, aby to nowy plik index2.html był kopiowany
-    * W podobny sposób dodaj i zmień w ustawieniach pliki main2.js i main2.scc
+    * Dodaj nowy plik index2.html i zmień zadania tak, aby to nowy plik index2.html był kopiowany (domyslnie browsersync i tak będzie czytał index.html, więc index2.html będzie kopiowany ale nie używany)
+    * W podobny sposób dodaj i zmień w ustawieniach pliki main2.js i main2.scss
+    * Dodaj nowe pliki main2.js i main2.scss do pliku index.html
     * Stwórz nowy folder o nazwie "zrodla" i stwórz tam odpowiadająca tobie strukture plików
     * Stwórz dowolne dwa skrypty działające na plikach z nowego folderu.
     * Ściągnij i użyj gulp-minify - bibliotekę do minifikacji plików Javascript (https://www.npmjs.com/package/gulp-minify)
