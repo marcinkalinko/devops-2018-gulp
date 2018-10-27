@@ -23,7 +23,7 @@ gulp.task('sass-watch', function(){
 })
 
 gulp.task('es6', function(){
-    return gulp.src('src/js/main.js')
+    return gulp.src('src/js/**/*.js')
         .pipe(babel({
             presets: ['env']
         }))
